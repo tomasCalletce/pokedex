@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Flamora",
+    "Altura": 1.2,
+    "Habilidad": "Mar de llamas",
+    "Imagen": "flamora.png",
+    "Frase filosófica": "El fuego que arde con pasión puede incendiar el camino hacia el éxito."
+  },
+  {
+    "Id": 2,
+    "Nombre": "Aquatide",
+    "Altura": 0.8,
+    "Habilidad": "Torrente",
+    "Imagen": "aquatide.png",
+    "Frase filosófica": "Fluir con la corriente es el secreto para encontrar el camino."
+  },
+  {
+    "Id": 3,
+    "Nombre": "Terraklaw",
+    "Altura": 1.5,
+    "Habilidad": "Garra robusta",
+    "Imagen": "terraklaw.png",
+    "Frase filosófica": "Como un árbol, debemos encontrar nuestras raíces para soportar las mayores tormentas."
+  },
+  {
+    "Id": 4,
+    "Nombre": "Zephyrwing",
+    "Altura": 1.1,
+    "Habilidad": "Vuelo veloz",
+    "Imagen": "zephyrwing.png",
+    "Frase filosófica": "El viento no rompe al junco que se dobla."
+  },
+  {
+    "Id": 5,
+    "Nombre": "Electrospark",
+    "Altura": 0.7,
+    "Habilidad": "Estática",
+    "Imagen": "electrospark.png",
+    "Frase filosófica": "La chispa de hoy puede ser el relámpago del mañana."
+  },
+  {
+    "Id": 6,
+    "Nombre": "Gaiastone",
+    "Altura": 1.4,
+    "Habilidad": "Roca sólida",
+    "Imagen": "gaiastone.png",
+    "Frase filosófica": "La fortaleza es la virtud de la paciencia de la montaña."
+  },
+  {
+    "Id": 7,
+    "Nombre": "Breezefly",
+    "Altura": 0.9,
+    "Habilidad": "Ciclón",
+    "Imagen": "breezefly.png",
+    "Frase filosófica": "La libertad se encuentra en el vuelo del espíritu."
+  }
+]
