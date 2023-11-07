@@ -1,5 +1,5 @@
+const os  = require('os');
 const pokemons = require('../pokemons.json');
-
 function getRandomElement(arr) {
   const randomIndex = Math.floor(Math.random() * arr.length);
   return arr[randomIndex];
@@ -13,7 +13,8 @@ const index = async (req, res) => {
     height : pokemon.Altura,
     ability : pokemon.Habilidad,
     image : pokemon.Imagen,
-    frase : pokemon['Frase filosófica']
+    frase : pokemon['Frase filosófica'],
+    hostname: os.hostname()
   }
 
   res.render('home', viewData);
@@ -27,7 +28,8 @@ const all = async (req, res) => {
     height : pokemon.Altura,
     ability : pokemon.Habilidad,
     image : pokemon.Imagen,
-    frase : pokemon['Frase filosófica']
+    frase : pokemon['Frase filosófica'],
+    hostname: os.hostname()
   }
 
   res.send(viewData);

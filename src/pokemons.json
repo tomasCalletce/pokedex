@@ -4,7 +4,7 @@
     "Nombre": "Flamora",
     "Altura": 1.2,
     "Habilidad": "Mar de llamas",
-    "Imagen": "flamora.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/Bulbasur.png",
     "Frase filosófica": "El fuego que arde con pasión puede incendiar el camino hacia el éxito."
   },
   {
@@ -12,7 +12,7 @@
     "Nombre": "Aquatide",
     "Altura": 0.8,
     "Habilidad": "Torrente",
-    "Imagen": "aquatide.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/Eevee.png",
     "Frase filosófica": "Fluir con la corriente es el secreto para encontrar el camino."
   },
   {
@@ -20,7 +20,7 @@
     "Nombre": "Terraklaw",
     "Altura": 1.5,
     "Habilidad": "Garra robusta",
-    "Imagen": "terraklaw.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/Rowlet.webp",
     "Frase filosófica": "Como un árbol, debemos encontrar nuestras raíces para soportar las mayores tormentas."
   },
   {
@@ -28,7 +28,7 @@
     "Nombre": "Zephyrwing",
     "Altura": 1.1,
     "Habilidad": "Vuelo veloz",
-    "Imagen": "zephyrwing.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/charizard.jpeg",
     "Frase filosófica": "El viento no rompe al junco que se dobla."
   },
   {
@@ -36,7 +36,7 @@
     "Nombre": "Electrospark",
     "Altura": 0.7,
     "Habilidad": "Estática",
-    "Imagen": "electrospark.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/diomedesdiaz.jpeg",
     "Frase filosófica": "La chispa de hoy puede ser el relámpago del mañana."
   },
   {
@@ -44,7 +44,7 @@
     "Nombre": "Gaiastone",
     "Altura": 1.4,
     "Habilidad": "Roca sólida",
-    "Imagen": "gaiastone.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/pikachu.png",
     "Frase filosófica": "La fortaleza es la virtud de la paciencia de la montaña."
   },
   {
@@ -52,7 +52,7 @@
     "Nombre": "Breezefly",
     "Altura": 0.9,
     "Habilidad": "Ciclón",
-    "Imagen": "breezefly.png",
+    "Imagen": "https://storage.googleapis.com/pokeimage/tomas.jpeg",
     "Frase filosófica": "La libertad se encuentra en el vuelo del espíritu."
   }
 ]
